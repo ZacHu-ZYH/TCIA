@@ -11,6 +11,6 @@
 ![apple2orange_1](2.png)
 ![apple2orange_2](3.png) 
 ![apple2orange_2](4.png) 
-![apple2orange_3](5.png)
-![apple2orange_3](6.png)
+![apple2orange](5.png)
+![apple2orange](6.png)
 
